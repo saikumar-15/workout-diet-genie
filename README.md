@@ -2,7 +2,7 @@
 
 A personalized fitness and diet planner built with Streamlit to help users achieve their health goals, whether it’s fat loss, muscle gain, or overall well-being. This app creates tailored 2-week workout and diet plans based on user inputs such as weight, diet type, and goals.
 
-![App Screenshot](https://github.com/saikumar-15/workout-diet-genie/blob/main/assets/screenshot1.png)
+
 
 ## 🚀 Features
 
@@ -13,13 +13,7 @@ A personalized fitness and diet planner built with Streamlit to help users achie
 - 📊 Easy-to-understand UI with interactive plan generation
 - 🤖 Built with Streamlit for seamless deployment and use
 
-## 📸 UI Preview
 
-### Goal Input Panel
-![Input UI](https://github.com/saikumar-15/workout-diet-genie/blob/main/assets/screenshot2.png)
-
-### Generated Plan
-![Plan UI](https://github.com/saikumar-15/workout-diet-genie/blob/main/assets/screenshot3.png)
 
 ## 🛠️ Installation
 
@@ -45,10 +39,7 @@ streamlit run app.py
 
 ```
 workout-diet-genie/
-├── app.py                 # Main Streamlit app
-├── assets/               # Contains UI images and screenshots
-├── utils/                # Helper functions and logic
-├── data/                 # Sample plans or additional data (optional)
+├── app.py                 # Main Streamlit ap
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
 ```
@@ -57,8 +48,6 @@ workout-diet-genie/
 
 - Python 🐍
 - Streamlit 🌐
-- Pandas 📊
-- Matplotlib / Seaborn (if used for charts)
 
 ## 🧠 Future Improvements
 
