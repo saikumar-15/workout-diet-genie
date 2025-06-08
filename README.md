@@ -89,8 +89,11 @@ git push origin feature-name
 
 For feedback or queries, connect via:
 
-- GitHub: [saikumar-15](https://github.com/saikumar-15)
+- GitHub:
+- [saikumar-15](https://github.com/saikumar-15)
+- [ManiReddyy](https://github.com/ManiReddyy)
 - Email: saikumarpersonalmail@gmail.com
+- Email: pathurimanireddy@gmaul.com
 
 ---
 
